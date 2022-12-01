@@ -1,0 +1,1 @@
+echo "the repository contains all the shell projects"
