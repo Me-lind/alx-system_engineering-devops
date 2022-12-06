@@ -1,5 +1,5 @@
 total 88
-drwxr-xr-x 2 root root 4096 Dec  5 00:38 .
+drwxr-xr-x 2 root root 4096 Dec  5 00:40 .
 drwxr-xr-x 6 root root  121 Dec  4 21:05 ..
 -rwxr--r-- 1 root root   33 Dec  4 23:43 0-hello_world
 -rwxr--r-- 1 root root   28 Dec  4 21:15 0-hello_world~
@@ -17,9 +17,9 @@ drwxr-xr-x 6 root root  121 Dec  4 21:05 ..
 -rwxr--r-- 1 root root   40 Dec  5 00:02 6-third_line~
 -rwxr--r-- 1 root root   71 Dec  5 00:31 7-file
 -rwxr--r-- 1 root root   71 Dec  5 00:13 7-file~
--rwxr--r-- 1 root root   38 Dec  5 00:36 8-cwd_state
+-rwxr--r-- 1 root root   38 Dec  5 00:39 8-cwd_state
 -rwxr--r-- 1 root root   37 Dec  5 00:35 8-cwd_state~
 -rw-r--r-- 1 root root   12 Dec  5 00:19 *\"Best School"\\*$?*****
 -rw-r--r-- 1 root root   12 Dec  5 00:32 *\"Best School"\\*$?*****:
--rw-r--r-- 1 root root    0 Dec  5 00:38 la_cwd_content
+-rw-r--r-- 1 root root    0 Dec  5 00:40 ls_cwd_content
 -rw-r--r-- 1 root root  210 Dec  4 23:33 README.md
